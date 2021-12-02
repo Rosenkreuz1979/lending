@@ -50,7 +50,7 @@ body {
 }
 
 .theme1 {
-    background-image: url(/images/theme1.jpg);
+    background-image: url('images/theme1.jpg');
     background-size: cover;
     height: 707px;
     padding-top: 194px;
